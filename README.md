@@ -1,3 +1,3 @@
 # Pong Game
 
-[game gif](pong.gif)
+![game gif](pong.gif)
