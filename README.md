@@ -1,3 +1,3 @@
 # Pong Game
 
-Built with React
+[game gif](pong.gif)
